@@ -1,4 +1,4 @@
-### Hey, I'm Carol 🌻!
+### Hey, I'm Carol!
 
 ##
 
