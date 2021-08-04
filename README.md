@@ -1,4 +1,4 @@
-### Olá, prazer Carol!
+### Hey, I'm Carol 🌻!
 
 ##
 
