@@ -2,11 +2,11 @@
 
 ##
 
-<!-- <div>
+<div>
  <a href="https://github.com/hakacarol">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakacarol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakacarol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakacarol&layout=compact&langs_count=7&theme=onedark&hide_border=true"/>
-</div> -->
+</div>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="CarolHaka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
